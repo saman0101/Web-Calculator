@@ -20,7 +20,7 @@ A sleek, beginner-friendly calculator built with **HTML**, **CSS**, and **JavaSc
 
 ![Calculator Screenshot](https://via.placeholder.com/600x400?text=Calculator+Screenshot)
 
-<sub>(Replace the link with an actual screenshot if you'd like)</sub>
+
 
 ---
 
@@ -47,3 +47,4 @@ This calculator is powered by simple yet effective JavaScript logic:
 1. Clone this repository:
    ```bash
    git clone https://github.com/saman0101/calculator-app.git
+2. https://saman0101.github.io/Web-Calculator/
