@@ -18,8 +18,8 @@ A sleek, beginner-friendly calculator built with **HTML**, **CSS**, and **JavaSc
 
 ## 📸 Preview
 
-![Calculator Screenshot](https://via.placeholder.com/600x400?text=Calculator+Screenshot)
-
+![Calculator Screenshot](https://i.postimg.cc/yYcX2Nwt/Screenshot-1184.png)
+![Calculator Screenshot](https://i.postimg.cc/Gm38zhrk/Screenshot-1185.png)
 
 
 ---
